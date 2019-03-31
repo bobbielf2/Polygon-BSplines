@@ -12,6 +12,10 @@ See `example_smooth_polygon.m` for how to use this code.
 
 ## Designing process
 
+> Note: This section presents the designing considerations for polygon smoothing, no need to read if just using the code.
+>
+> For best reading experience, paste the following texts into any LaTeX-supporting Markdown editor (e.g. [Typora](https://typora.io) ) .
+
 
 
 1. Define a polygon 
