@@ -28,7 +28,7 @@ plot(Y(1,:), Y(2,:), 'b');
 plot(X(1,:), X(2,:), 'r');
 plot(X(1,1), X(2,1), 'og');
 title(['B-splines order = ',num2str(n)])
-legend({'polygon','B-spline','NURBS','starting pt'},'location','sw
+legend({'polygon','B-spline','NURBS','starting pt'},'location','sw')
 
 
 subplot(232)
