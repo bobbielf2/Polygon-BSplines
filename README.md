@@ -2,11 +2,13 @@
 
 Author: Bowei (Bobbie) Wu
 
-B-splines/NURBS evaluations used the [B-splines MATLAB package](https://www.mathworks.com/matlabcentral/fileexchange/27374-b-splines) by [Levente Hunyadi](https://www.mathworks.com/matlabcentral/profile/authors/1879353-levente-hunyadi).
+All B-splines/NURBS evaluations in this code are done using the [B-splines MATLAB package](https://www.mathworks.com/matlabcentral/fileexchange/27374-b-splines) by [Levente Hunyadi](https://www.mathworks.com/matlabcentral/profile/authors/1879353-levente-hunyadi).
 
 ## Usage
 
 See `example_smooth_polygon.m` for how to use this code.
+
+![img](img.png)
 
 ## Designing process
 
